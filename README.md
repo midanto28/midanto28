@@ -5,6 +5,7 @@
 </p>
 
 <br>
+<br>
 
 <!-- 기술스택 --> 
 <div align=center><h3>🔨Stacks </h3></div>
@@ -21,8 +22,6 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
   
   <br>
@@ -33,25 +32,28 @@
 <br>
 <br>
 
-<!-- 스테이터스 -->
+
+<!-- Most Used Languages -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=midanto28&show_icons=true&theme=graywhite" alt="Anurag's GitHub stats" height="195">
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midanto28" alt="Top Langs" height="195">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midanto28" alt="Top Langs">
   </a>
 </p>
 
+<br>
+<br>
 
-
-
+<!-- 스테이터스 -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=midanto28&show_icons=true&theme=graywhite" alt="Anurag's GitHub stats">
+  </a>
+</p>
 
 <!-- 방문자 -->
 <br>
 <br>
-<br>
+
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmidanto28&count_bg=%23AEAEAE&title_bg=%23666666&icon=&icon_color=%23F7FF00&title=hits&edge_flat=true" alt="Hits">
