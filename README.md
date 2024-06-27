@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=F0F0F0&height=150&section=header&text=midanto's%20Github&fontSize=90)
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=E5E5E5&height=150&section=header&text=midanto's%20Github&fontSize=90)
 
 <!-- 스테이터스 -->
