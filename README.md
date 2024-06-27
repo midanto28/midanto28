@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-<a href="midanto28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gMAil-FFFFFF?style=for-the-badge&logo=#EA4335&logoColor=FFFFFF"/></a>
+<a href="midanto28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gMAil-000000?style=for-the-badge&logo=#EA4335&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midanto28&show_icons=true&theme=radical)
 
