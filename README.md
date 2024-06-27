@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=F0F0F0&height=130&section=header&text=midanto's%20Github&fontSize=90" alt="header">
 </p>
 
+<br>
 
 <!-- 기술스택 --> 
 <div align=center><h3>🔨Stacks </h3></div>
@@ -28,6 +29,8 @@
   
 </div>
 
+<br>
+<br>
 <br>
 
 <!-- 스테이터스 -->
