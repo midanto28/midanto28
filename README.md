@@ -4,14 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=F0F0F0&height=130&section=header&text=midanto's%20Github&fontSize=90" alt="header">
 </p>
 
-<br>
-
-<!-- 스테이터스 -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=midanto28&show_icons=true&theme=graywhite" alt="Anurag's GitHub stats">
-  </a>
-</p>
 
 <!-- 기술스택 --> 
 <div align=center><h3>🔨Stacks </h3></div>
@@ -23,9 +15,6 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
 
-
-
-
   <br>
 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -36,12 +25,23 @@
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
   
   <br>
-
-
   
-  
-
 </div>
+
+<br>
+
+<!-- 스테이터스 -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=midanto28&show_icons=true&theme=graywhite" alt="Anurag's GitHub stats" height="195">
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midanto28" alt="Top Langs" height="195">
+  </a>
+</p>
+
+
 
 
 
