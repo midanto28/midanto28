@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=F8E2CF&text=&animation=twinkling&height=150&section=header&text=midanto's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=F8E2CF&height=150&section=header&text=midanto's%20Github&fontSize=90)
 
 ![header](https://capsule-render.vercel.app/api?
 type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
