@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=F6F8FA&height=150&section=header&text=midanto's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=F4C4C8&height=150&section=header&text=midanto's%20Github&fontSize=90)
 
 <!-- 스테이터스 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midanto28&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
