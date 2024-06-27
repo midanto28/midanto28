@@ -13,10 +13,8 @@
   </a>
 </p>
 
-<br>
- 
-
-<div align=center><h1>🔨Stacks </h3></div>
+<!-- 기술스택 --> 
+<div align=center><h3>🔨Stacks </h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
