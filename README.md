@@ -1,7 +1,10 @@
 <!-- 헤더 -->
+<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=F0F0F0&height=150&section=header&text=midanto's%20Github&fontSize=90" alt="header">
 </p>
+
+<br>
 
 <!-- 스테이터스 -->
 <p align="center">
@@ -10,11 +13,11 @@
   </a>
 </p>
 
+##
+<br>
+ 
 
-
-## 🔨 Frequently Used
-
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚Stacks </h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -25,30 +28,14 @@
 
   <br>
 
-
-
-  <br>
-  
-
-
-  <br>
-  
-
-
-
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
+  
   <br>
 </div>
 
