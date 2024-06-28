@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=94DDB7&height=130&section=header&text=midanto's%20Github&fontSize=90" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=C3E0D1&height=130&section=header&text=midanto's%20Github&fontSize=90" alt="header">
 </p>
 
 <br><br>
